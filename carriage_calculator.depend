@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1412350157 source:c:\users\j.cottam\documents\c++\projects\carriage_calculator\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	<windows.h>
+	"math.h"
+	"main.h"
+
+1398842039 source:c:\users\j.cottam\documents\c++\projects\carriage_calculator\tuffs.cpp
+
+1399551967 c:\users\j.cottam\documents\c++\projects\carriage_calculator\ukmail.h
+
+1399551967 c:\users\j.cottam\documents\c++\projects\carriage_calculator\tuffs.h
+
+1399548957 c:\users\j.cottam\documents\c++\projects\carriage_calculator\math.h
+
+1399644661 source:c:\users\j.cottam\documents\c++\projects\carriage_calculator\tuffnells.cpp
+
+1399644624 source:c:\users\j.cottam\documents\c++\projects\carriage_calculator\ukmail.cpp
+
+1399549798 c:\users\j.cottam\documents\c++\projects\carriage_calculator\tuffnells.cpp
+
+1399566351 c:\users\j.cottam\documents\c++\projects\carriage_calculator\main.h
+
